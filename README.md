@@ -1,2 +1,2 @@
-# JavaScript2
+# Whatsapp2
 Training
